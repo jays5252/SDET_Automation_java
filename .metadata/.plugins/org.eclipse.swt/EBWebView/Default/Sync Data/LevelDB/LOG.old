@@ -1,2 +1,3 @@
-2025/10/04-16:37:00.049 26a4 Creating DB D:\automation_projects\SDET_Automation_java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2025/10/04-16:37:00.074 26a4 Reusing MANIFEST D:\automation_projects\SDET_Automation_java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/10/04-17:00:40.389 4874 Reusing MANIFEST D:\automation_projects\SDET_Automation_java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/10/04-17:00:40.392 4874 Recovering log #3
+2025/10/04-17:00:40.393 4874 Reusing old log D:\automation_projects\SDET_Automation_java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 

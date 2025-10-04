@@ -1,0 +1,24 @@
+package org.basic.java;
+
+public class AirthMethAssignemt1 
+{
+	public int Sum(int a, int b)
+	{
+		sum = a+b;
+		return sum;
+	}
+	
+	public void Sub(int a, int b)
+	{
+		
+	}
+	public void Multi(int a, int b)
+	{
+		
+	}
+	public void Div(int a, int b)
+	{
+		
+	}
+
+}
