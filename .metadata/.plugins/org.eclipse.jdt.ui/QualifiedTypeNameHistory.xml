@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.basic.java.AirthMethAssignemt1"/>
+    <fullyQualifiedTypeName name="org.basic.java.AirthMeticMethods"/>
+    <fullyQualifiedTypeName name="org.basic.conditions.ConditionsMethods"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

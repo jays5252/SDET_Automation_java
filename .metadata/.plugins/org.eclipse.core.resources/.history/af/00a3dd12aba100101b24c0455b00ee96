@@ -1,0 +1,22 @@
+package org.basic.conditions;
+
+public class ConditionsMethods 
+{
+	public void swapValuewithVariable(int a, int b)
+	{
+		a=b;
+		b=a;
+		System.out.println("Value of a: "+a);
+		System.out.println("Value of b: "+b);
+	}
+	
+	public void swapValueUsingThirdVariable(int a, int b)
+	{
+		a=b;
+		int c=a;
+		a=c;
+		System.out.println("Value of a: "+a);
+		System.out.println("Value of b: "+b);
+	}
+
+}
